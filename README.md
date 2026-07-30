@@ -17,9 +17,7 @@ I am a **Full-Stack Software Engineer** specializing in the TypeScript ecosystem
 
 My recent engineering efforts are heavily focused on **AI Integrations**, bridging the gap between sophisticated Large Language Models (LLMs), Vector Databases, and real-world user applications.
 
-- **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), Dependency Injection (InversifyJS), RESTful API Design.
-- **AI & Data Engineering:** RAG (Retrieval-Augmented Generation) Pipelines, LangChain, Qdrant, Groq, Google Generative AI.
-- **Core Technology Stack:** TypeScript, React (Next.js / Vite), Node.js, Express, MongoDB, Prisma, Redis, Tailwind CSS.
+I build high-performance systems and am always open to discussing complex architectural challenges, innovative AI solutions, and how I can bring immediate technical value to ambitious engineering teams.
 
 ---
 
@@ -128,20 +126,11 @@ My recent engineering efforts are heavily focused on **AI Integrations**, bridgi
 
 ---
 
-### Engineering Analytics
+### Core Engineering Principles
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=risansadik&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" alt="Risan's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=risansadik&theme=transparent&hide_border=true&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff" alt="Risan's GitHub Streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=risansadik&layout=donut&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3382ed" alt="Top Languages" width="40%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=risansadik&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-</div>
+- **Architecture First:** Code is read far more often than it is written. I prioritize Domain-Driven Design and Clean Architecture so that systems remain inherently scalable, testable, and maintainable as business requirements evolve.
+- **AI-Driven Problem Solving:** Rather than treating AI as a novelty, I integrate Large Language Models and Vector Databases deep into the application layer to create contextual, highly intelligent user experiences.
+- **Full-Stack Ownership:** From crafting fluid, responsive UI animations in React to modeling complex, normalized database schemas in PostgreSQL or MongoDB, I take full end-to-end ownership of the product lifecycle.
 
 ---
 
