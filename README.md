@@ -47,7 +47,7 @@ I build high-performance systems and am always open to discussing complex archit
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">reNove - AI Recovery Ecosystem</h3>
+      <h3 align="center">Renove - AI Recovery Ecosystem</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/React%2019-blue?style=flat-square&logo=react"/>
         <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js"/>
